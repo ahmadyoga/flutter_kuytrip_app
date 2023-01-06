@@ -1,0 +1,31 @@
+{
+  "category" : [
+    {
+      "title" : "Danau",
+      "image" : "assets/image/candi_tengah_laut.jpg"
+    },
+    {
+      "title" : "Gunung",
+      "image" : "assets/image/candi_gunung.jpg"
+    },
+    {
+      "title" : "Pantai",
+      "image" : "assets/image/candi_atas_laut.jpg"
+    },
+    {
+      "title" : "Desa",
+      "image" : "assets/image/gerbang_tengah_laut.jpg"
+    }
+  ],
+  "top_destinasi" :
+  [
+    {
+      "tempat" : "Pantai Ubud",
+      "lokasi" : "Bali, Indonesia"
+    },
+    {
+      "tempat" : "Gunung Fuji",
+      "lokasi" : "Nganjuk, Jepang"
+    }
+  ]
+}
